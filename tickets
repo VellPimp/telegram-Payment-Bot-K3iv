@@ -1,0 +1,10 @@
+response = requests.get('https://api.spotify.com/v1/me', headers={'Authorization': f'Bearer BQC3T4Y5H6P7D8J9K1L2M3N4'})
+
+https://t.me/dogshouse_bot/join?startapp=bKXv0J5LSoGHMR11MBC-9w
+s3 = boto3.client('s3', aws_access_key_id='AKIA7BC8D9EFG0H1I2', aws_secret_access_key='X8y7R6t4W3e4Q2t5R6f7g8H9Jk0')
+
+blob.upload_from_string('this is test content!')
+
+trello_api_key = 'a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6'
+
+https://telegra.ph/Proliv-trafika-07-01-2?O1oLIFOs
